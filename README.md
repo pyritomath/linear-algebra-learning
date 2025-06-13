@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=3Blue1Brown+Series+Implementation;Mathematical+Foundations+for+AI;Vectors%2C+Matrices+%26+Transformations;Building+Intuition+Through+Code" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500">
 
 **Transforming abstract mathematics into visual understanding through hands-on implementation**
 
@@ -16,7 +16,7 @@
 
 ## 🎥 Video Library & Learning Resources
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50">
 
 </div>
 
@@ -73,7 +73,7 @@ graph TD
 
 ## 🎯 Learning Progress
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="700">
 
 </div>
 
@@ -109,7 +109,7 @@ graph TD
 
 ## 🗂️ Repository Structure
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50">
 
 </div>
 
@@ -143,7 +143,7 @@ graph TD
 
 ## 🎨 Current Focus: Chapter 8 - Nonsquare Matrices
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50">
 
 </div>
 
@@ -187,7 +187,7 @@ result = nonsquare.transform([1, 1])  # Magic dimensionality! ✨
 
 ## 🧠 Key Insights & Breakthrough Moments
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="50">
 
 </div>
 
@@ -255,7 +255,7 @@ graph LR
 
 ## 🚀 Next Steps
 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80">
 
 ### 📅 This Week
 - [ ] Complete Chapter 1 implementation
